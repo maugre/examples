@@ -17,7 +17,7 @@ Print the numbers 1 to 100 but for multiples of 3 print 'Fizz' and for multiples
  
 ## Results
 
-I have code versions in the following languages with confirmed matching output:
+I have coded versions in the following languages with confirmed matching output:
  
 * Go
 * Node.js (ES6)
